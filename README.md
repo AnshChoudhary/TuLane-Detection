@@ -28,6 +28,13 @@ U-Net is a convolutional neural network architecture designed for fast and preci
     pip install -r requirements.txt
     ```
 
+### Model Performance
+| Metric           | Training       | Validation     |
+|------------------|----------------|----------------|
+| Loss             | 0.0137         | 0.1146         |
+| Accuracy         | 0.9715         | 0.9590         |
+
+
 ### Predicting on sample images from the validation set
 ![image](https://github.com/AnshChoudhary/Autonomous-Driving/assets/32743873/ed2d201b-44dd-4d8b-9fc0-b8cdd321b7b2)
 ![image](https://github.com/AnshChoudhary/Autonomous-Driving/assets/32743873/ce4145a9-5ecd-4c1f-9629-9b9721ba9a6b)
