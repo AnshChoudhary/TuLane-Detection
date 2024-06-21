@@ -69,3 +69,6 @@ Output with the Original Image and its corresponding model-generated mask:
 Output with the Original Image and its corresponding model-generated mask being applied to the image:
 ![image](https://github.com/AnshChoudhary/Autonomous-Driving/assets/32743873/cca4f7d1-9cd2-4eb0-9aa3-148abc7a6165)
 
+### Future Research Scope:
+- Further training this model on different datasets like BDD100K and LLAMAs.
+- Improving the model performance on images that were taken at night time or in a different weather setting. Could be acheived by training on data from BDD100K and LLAMAs.
