@@ -42,8 +42,8 @@ The final layer is a 1x1 convolution that maps each 64-component feature vector 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/unet-lane-detection.git
-    cd unet-lane-detection
+    git clone https://github.com/AnshChoudhary/Autonomous-Driving.git
+    cd Autonomous-Driving
     ```
 
 2. Install the required packages:
