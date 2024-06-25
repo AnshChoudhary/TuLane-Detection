@@ -1,8 +1,4 @@
-# Autonomous Driving Research
-
-
-
-## U-Net for Lane Detection on TuSimple Dataset
+# U-Net for Lane Detection on TuSimple Dataset
 The [U_net_implementation.ipynb](https://github.com/AnshChoudhary/Autonomous-Driving/blob/main/U_net_implementation.ipynb) contains an implementation of a U-Net model for lane detection using the TuSimple dataset. The model is trained to segment lane markings in images captured from a vehicle's front-facing camera.
 
 ### Overview
